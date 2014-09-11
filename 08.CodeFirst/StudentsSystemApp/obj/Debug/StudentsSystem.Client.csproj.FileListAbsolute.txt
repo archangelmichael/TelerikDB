@@ -1,0 +1,56 @@
+C:\Users\dzhenko\Documents\Visual Studio 2013\Projects\TelerikAcademy\DB\DB-Preparation\DB-10-CodeFirst-Homework\StudentsSystem.Client\bin\Debug\StudentsSystem.Client.exe.config
+C:\Users\dzhenko\Documents\Visual Studio 2013\Projects\TelerikAcademy\DB\DB-Preparation\DB-10-CodeFirst-Homework\StudentsSystem.Client\bin\Debug\StudentsSystem.Client.exe
+C:\Users\dzhenko\Documents\Visual Studio 2013\Projects\TelerikAcademy\DB\DB-Preparation\DB-10-CodeFirst-Homework\StudentsSystem.Client\bin\Debug\StudentsSystem.Client.pdb
+C:\Users\dzhenko\Documents\Visual Studio 2013\Projects\TelerikAcademy\DB\DB-Preparation\DB-10-CodeFirst-Homework\StudentsSystem.Client\bin\Debug\EntityFramework.dll
+C:\Users\dzhenko\Documents\Visual Studio 2013\Projects\TelerikAcademy\DB\DB-Preparation\DB-10-CodeFirst-Homework\StudentsSystem.Client\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\dzhenko\Documents\Visual Studio 2013\Projects\TelerikAcademy\DB\DB-Preparation\DB-10-CodeFirst-Homework\StudentsSystem.Client\bin\Debug\StudentsSystem.Data.dll
+C:\Users\dzhenko\Documents\Visual Studio 2013\Projects\TelerikAcademy\DB\DB-Preparation\DB-10-CodeFirst-Homework\StudentsSystem.Client\bin\Debug\StudentsSystem.Models.dll
+C:\Users\dzhenko\Documents\Visual Studio 2013\Projects\TelerikAcademy\DB\DB-Preparation\DB-10-CodeFirst-Homework\StudentsSystem.Client\bin\Debug\StudentsSystem.Data.pdb
+C:\Users\dzhenko\Documents\Visual Studio 2013\Projects\TelerikAcademy\DB\DB-Preparation\DB-10-CodeFirst-Homework\StudentsSystem.Client\bin\Debug\StudentsSystem.Models.pdb
+C:\Users\dzhenko\Documents\Visual Studio 2013\Projects\TelerikAcademy\DB\DB-Preparation\DB-10-CodeFirst-Homework\StudentsSystem.Client\bin\Debug\EntityFramework.xml
+C:\Users\dzhenko\Documents\Visual Studio 2013\Projects\TelerikAcademy\DB\DB-Preparation\DB-10-CodeFirst-Homework\StudentsSystem.Client\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\dzhenko\Documents\Visual Studio 2013\Projects\TelerikAcademy\DB\DB-Preparation\DB-10-CodeFirst-Homework\StudentsSystem.Client\obj\Debug\StudentsSystem.Client.csprojResolveAssemblyReference.cache
+C:\Users\dzhenko\Documents\Visual Studio 2013\Projects\TelerikAcademy\DB\DB-Preparation\DB-10-CodeFirst-Homework\StudentsSystem.Client\obj\Debug\StudentsSystem.Client.exe
+C:\Users\dzhenko\Documents\Visual Studio 2013\Projects\TelerikAcademy\DB\DB-Preparation\DB-10-CodeFirst-Homework\StudentsSystem.Client\obj\Debug\StudentsSystem.Client.pdb
+C:\Users\dzhenko\Documents\Visual Studio 2013\Projects\TelerikAcademy\DB\DB-Preparation\CodeFirst\StudentsSystem.Client\bin\Debug\StudentsSystem.Client.exe.config
+C:\Users\dzhenko\Documents\Visual Studio 2013\Projects\TelerikAcademy\DB\DB-Preparation\CodeFirst\StudentsSystem.Client\obj\Debug\StudentsSystem.Client.exe
+C:\Users\dzhenko\Documents\Visual Studio 2013\Projects\TelerikAcademy\DB\DB-Preparation\CodeFirst\StudentsSystem.Client\obj\Debug\StudentsSystem.Client.pdb
+C:\Users\dzhenko\Documents\Visual Studio 2013\Projects\TelerikAcademy\DB\DB-Preparation\CodeFirst\StudentsSystem.Client\bin\Debug\StudentsSystem.Client.exe
+C:\Users\dzhenko\Documents\Visual Studio 2013\Projects\TelerikAcademy\DB\DB-Preparation\CodeFirst\StudentsSystem.Client\bin\Debug\StudentsSystem.Client.pdb
+C:\Users\dzhenko\Documents\Visual Studio 2013\Projects\TelerikAcademy\DB\DB-Preparation\CodeFirst\StudentsSystem.Client\bin\Debug\EntityFramework.dll
+C:\Users\dzhenko\Documents\Visual Studio 2013\Projects\TelerikAcademy\DB\DB-Preparation\CodeFirst\StudentsSystem.Client\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\dzhenko\Documents\Visual Studio 2013\Projects\TelerikAcademy\DB\DB-Preparation\CodeFirst\StudentsSystem.Client\bin\Debug\StudentsSystem.Data.dll
+C:\Users\dzhenko\Documents\Visual Studio 2013\Projects\TelerikAcademy\DB\DB-Preparation\CodeFirst\StudentsSystem.Client\bin\Debug\StudentsSystem.Models.dll
+C:\Users\dzhenko\Documents\Visual Studio 2013\Projects\TelerikAcademy\DB\DB-Preparation\CodeFirst\StudentsSystem.Client\bin\Debug\StudentsSystem.Data.pdb
+C:\Users\dzhenko\Documents\Visual Studio 2013\Projects\TelerikAcademy\DB\DB-Preparation\CodeFirst\StudentsSystem.Client\bin\Debug\StudentsSystem.Models.pdb
+C:\Users\dzhenko\Documents\Visual Studio 2013\Projects\TelerikAcademy\DB\DB-Preparation\CodeFirst\StudentsSystem.Client\bin\Debug\EntityFramework.xml
+C:\Users\dzhenko\Documents\Visual Studio 2013\Projects\TelerikAcademy\DB\DB-Preparation\CodeFirst\StudentsSystem.Client\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\dzhenko\Documents\Visual Studio 2013\Projects\TelerikAcademy\DB\DB-Preparation\CodeFirst\StudentsSystem.Client\obj\Debug\StudentsSystem.Client.csprojResolveAssemblyReference.cache
+C:\Users\dzhenko\Documents\Visual Studio 2013\Projects\TelerikAcademy\DB\DB-9-CodeFirst-Homework\StudentsSystem.Client\bin\Debug\StudentsSystem.Client.exe.config
+C:\Users\dzhenko\Documents\Visual Studio 2013\Projects\TelerikAcademy\DB\DB-9-CodeFirst-Homework\StudentsSystem.Client\obj\Debug\StudentsSystem.Client.exe
+C:\Users\dzhenko\Documents\Visual Studio 2013\Projects\TelerikAcademy\DB\DB-9-CodeFirst-Homework\StudentsSystem.Client\obj\Debug\StudentsSystem.Client.pdb
+C:\Users\dzhenko\Documents\Visual Studio 2013\Projects\TelerikAcademy\DB\DB-9-CodeFirst-Homework\StudentsSystem.Client\bin\Debug\StudentsSystem.Client.exe
+C:\Users\dzhenko\Documents\Visual Studio 2013\Projects\TelerikAcademy\DB\DB-9-CodeFirst-Homework\StudentsSystem.Client\bin\Debug\StudentsSystem.Client.pdb
+C:\Users\dzhenko\Documents\Visual Studio 2013\Projects\TelerikAcademy\DB\DB-9-CodeFirst-Homework\StudentsSystem.Client\bin\Debug\EntityFramework.dll
+C:\Users\dzhenko\Documents\Visual Studio 2013\Projects\TelerikAcademy\DB\DB-9-CodeFirst-Homework\StudentsSystem.Client\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\dzhenko\Documents\Visual Studio 2013\Projects\TelerikAcademy\DB\DB-9-CodeFirst-Homework\StudentsSystem.Client\bin\Debug\StudentsSystem.Data.dll
+C:\Users\dzhenko\Documents\Visual Studio 2013\Projects\TelerikAcademy\DB\DB-9-CodeFirst-Homework\StudentsSystem.Client\bin\Debug\StudentsSystem.Models.dll
+C:\Users\dzhenko\Documents\Visual Studio 2013\Projects\TelerikAcademy\DB\DB-9-CodeFirst-Homework\StudentsSystem.Client\bin\Debug\StudentsSystem.Data.pdb
+C:\Users\dzhenko\Documents\Visual Studio 2013\Projects\TelerikAcademy\DB\DB-9-CodeFirst-Homework\StudentsSystem.Client\bin\Debug\StudentsSystem.Models.pdb
+C:\Users\dzhenko\Documents\Visual Studio 2013\Projects\TelerikAcademy\DB\DB-9-CodeFirst-Homework\StudentsSystem.Client\bin\Debug\EntityFramework.xml
+C:\Users\dzhenko\Documents\Visual Studio 2013\Projects\TelerikAcademy\DB\DB-9-CodeFirst-Homework\StudentsSystem.Client\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\dzhenko\Documents\Visual Studio 2013\Projects\TelerikAcademy\DB\DB-9-CodeFirst-Homework\StudentsSystem.Client\obj\Debug\StudentsSystem.Client.csprojResolveAssemblyReference.cache
+C:\Users\ARCHANGEL\Downloads\08.CodeFirst\StudentsSystem.Client\bin\Debug\StudentsSystem.Client.exe.config
+C:\Users\ARCHANGEL\Downloads\08.CodeFirst\StudentsSystem.Client\obj\Debug\StudentsSystem.Client.exe
+C:\Users\ARCHANGEL\Downloads\08.CodeFirst\StudentsSystem.Client\obj\Debug\StudentsSystem.Client.pdb
+C:\Users\ARCHANGEL\Downloads\08.CodeFirst\StudentsSystem.Client\bin\Debug\StudentsSystem.Client.exe
+C:\Users\ARCHANGEL\Downloads\08.CodeFirst\StudentsSystem.Client\bin\Debug\StudentsSystem.Client.pdb
+C:\Users\ARCHANGEL\Downloads\08.CodeFirst\StudentsSystem.Client\bin\Debug\EntityFramework.dll
+C:\Users\ARCHANGEL\Downloads\08.CodeFirst\StudentsSystem.Client\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\ARCHANGEL\Downloads\08.CodeFirst\StudentsSystem.Client\bin\Debug\StudentsSystem.Data.dll
+C:\Users\ARCHANGEL\Downloads\08.CodeFirst\StudentsSystem.Client\bin\Debug\StudentsSystem.Models.dll
+C:\Users\ARCHANGEL\Downloads\08.CodeFirst\StudentsSystem.Client\bin\Debug\StudentsSystem.Data.pdb
+C:\Users\ARCHANGEL\Downloads\08.CodeFirst\StudentsSystem.Client\bin\Debug\StudentsSystem.Models.pdb
+C:\Users\ARCHANGEL\Downloads\08.CodeFirst\StudentsSystem.Client\bin\Debug\EntityFramework.xml
+C:\Users\ARCHANGEL\Downloads\08.CodeFirst\StudentsSystem.Client\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\ARCHANGEL\Downloads\08.CodeFirst\StudentsSystem.Client\obj\Debug\StudentsSystem.Client.csprojResolveAssemblyReference.cache

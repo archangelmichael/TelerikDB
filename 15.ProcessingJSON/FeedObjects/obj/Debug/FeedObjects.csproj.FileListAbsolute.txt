@@ -1,0 +1,4 @@
+C:\Users\ARCHANGEL\Documents\Visual Studio 2012\Projects\08.2014.DB\15.ProcessingJSON\FeedObjects\bin\Debug\FeedObjects.dll
+C:\Users\ARCHANGEL\Documents\Visual Studio 2012\Projects\08.2014.DB\15.ProcessingJSON\FeedObjects\bin\Debug\FeedObjects.pdb
+C:\Users\ARCHANGEL\Documents\Visual Studio 2012\Projects\08.2014.DB\15.ProcessingJSON\FeedObjects\obj\Debug\FeedObjects.dll
+C:\Users\ARCHANGEL\Documents\Visual Studio 2012\Projects\08.2014.DB\15.ProcessingJSON\FeedObjects\obj\Debug\FeedObjects.pdb

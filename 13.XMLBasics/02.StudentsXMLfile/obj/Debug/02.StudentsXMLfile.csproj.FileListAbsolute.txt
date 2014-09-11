@@ -1,0 +1,6 @@
+C:\Users\ARCHANGEL\Documents\Visual Studio 2012\Projects\08.2014.DB\13.XMLBasics\02.StudentsXMLfile\bin\Debug\02.StudentsXMLfile.exe.config
+C:\Users\ARCHANGEL\Documents\Visual Studio 2012\Projects\08.2014.DB\13.XMLBasics\02.StudentsXMLfile\obj\Debug\02.StudentsXMLfile.csprojResolveAssemblyReference.cache
+C:\Users\ARCHANGEL\Documents\Visual Studio 2012\Projects\08.2014.DB\13.XMLBasics\02.StudentsXMLfile\bin\Debug\02.StudentsXMLfile.exe
+C:\Users\ARCHANGEL\Documents\Visual Studio 2012\Projects\08.2014.DB\13.XMLBasics\02.StudentsXMLfile\bin\Debug\02.StudentsXMLfile.pdb
+C:\Users\ARCHANGEL\Documents\Visual Studio 2012\Projects\08.2014.DB\13.XMLBasics\02.StudentsXMLfile\obj\Debug\02.StudentsXMLfile.exe
+C:\Users\ARCHANGEL\Documents\Visual Studio 2012\Projects\08.2014.DB\13.XMLBasics\02.StudentsXMLfile\obj\Debug\02.StudentsXMLfile.pdb

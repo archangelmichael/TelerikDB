@@ -1,0 +1,17 @@
+C:\Users\ARCHANGEL\Documents\Visual Studio 2012\Projects\08.2014.DB\12.MongoDb\WPFexample\bin\Debug\WPFexample.exe.config
+C:\Users\ARCHANGEL\Documents\Visual Studio 2012\Projects\08.2014.DB\12.MongoDb\WPFexample\bin\Debug\WPFexample.exe
+C:\Users\ARCHANGEL\Documents\Visual Studio 2012\Projects\08.2014.DB\12.MongoDb\WPFexample\bin\Debug\WPFexample.pdb
+C:\Users\ARCHANGEL\Documents\Visual Studio 2012\Projects\08.2014.DB\12.MongoDb\WPFexample\obj\Debug\MainWindow.baml
+C:\Users\ARCHANGEL\Documents\Visual Studio 2012\Projects\08.2014.DB\12.MongoDb\WPFexample\obj\Debug\MainWindow.g.cs
+C:\Users\ARCHANGEL\Documents\Visual Studio 2012\Projects\08.2014.DB\12.MongoDb\WPFexample\obj\Debug\App.g.cs
+C:\Users\ARCHANGEL\Documents\Visual Studio 2012\Projects\08.2014.DB\12.MongoDb\WPFexample\obj\Debug\WPFexample_MarkupCompile.cache
+C:\Users\ARCHANGEL\Documents\Visual Studio 2012\Projects\08.2014.DB\12.MongoDb\WPFexample\obj\Debug\WPFexample.g.resources
+C:\Users\ARCHANGEL\Documents\Visual Studio 2012\Projects\08.2014.DB\12.MongoDb\WPFexample\obj\Debug\WPFexample.Properties.Resources.resources
+C:\Users\ARCHANGEL\Documents\Visual Studio 2012\Projects\08.2014.DB\12.MongoDb\WPFexample\obj\Debug\WPFexample.csproj.GenerateResource.Cache
+C:\Users\ARCHANGEL\Documents\Visual Studio 2012\Projects\08.2014.DB\12.MongoDb\WPFexample\obj\Debug\WPFexample.exe
+C:\Users\ARCHANGEL\Documents\Visual Studio 2012\Projects\08.2014.DB\12.MongoDb\WPFexample\obj\Debug\WPFexample.pdb
+C:\Users\ARCHANGEL\Documents\Visual Studio 2012\Projects\08.2014.DB\12.MongoDb\WPFexample\bin\Debug\MongoDB.Bson.dll
+C:\Users\ARCHANGEL\Documents\Visual Studio 2012\Projects\08.2014.DB\12.MongoDb\WPFexample\bin\Debug\MongoDB.Driver.dll
+C:\Users\ARCHANGEL\Documents\Visual Studio 2012\Projects\08.2014.DB\12.MongoDb\WPFexample\bin\Debug\MongoDB.Bson.xml
+C:\Users\ARCHANGEL\Documents\Visual Studio 2012\Projects\08.2014.DB\12.MongoDb\WPFexample\bin\Debug\MongoDB.Driver.xml
+C:\Users\ARCHANGEL\Documents\Visual Studio 2012\Projects\08.2014.DB\12.MongoDb\WPFexample\obj\Debug\WPFexample.csprojResolveAssemblyReference.cache

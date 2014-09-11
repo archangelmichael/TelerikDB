@@ -1,0 +1,15 @@
+C:\Users\dzhenko\Documents\Visual Studio 2013\Projects\TelerikAcademy\DB\DB-Preparation\DB-10-CodeFirst-Homework\StudentsSystem.Models\bin\Debug\StudentsSystem.Models.dll
+C:\Users\dzhenko\Documents\Visual Studio 2013\Projects\TelerikAcademy\DB\DB-Preparation\DB-10-CodeFirst-Homework\StudentsSystem.Models\bin\Debug\StudentsSystem.Models.pdb
+C:\Users\dzhenko\Documents\Visual Studio 2013\Projects\TelerikAcademy\DB\DB-Preparation\DB-10-CodeFirst-Homework\StudentsSystem.Models\obj\Debug\StudentsSystem.Models.csprojResolveAssemblyReference.cache
+C:\Users\dzhenko\Documents\Visual Studio 2013\Projects\TelerikAcademy\DB\DB-Preparation\DB-10-CodeFirst-Homework\StudentsSystem.Models\obj\Debug\StudentsSystem.Models.dll
+C:\Users\dzhenko\Documents\Visual Studio 2013\Projects\TelerikAcademy\DB\DB-Preparation\DB-10-CodeFirst-Homework\StudentsSystem.Models\obj\Debug\StudentsSystem.Models.pdb
+C:\Users\dzhenko\Documents\Visual Studio 2013\Projects\TelerikAcademy\DB\DB-Preparation\CodeFirst\StudentsSystem.Models\bin\Debug\StudentsSystem.Models.dll
+C:\Users\dzhenko\Documents\Visual Studio 2013\Projects\TelerikAcademy\DB\DB-Preparation\CodeFirst\StudentsSystem.Models\bin\Debug\StudentsSystem.Models.pdb
+C:\Users\dzhenko\Documents\Visual Studio 2013\Projects\TelerikAcademy\DB\DB-Preparation\CodeFirst\StudentsSystem.Models\obj\Debug\StudentsSystem.Models.csprojResolveAssemblyReference.cache
+C:\Users\dzhenko\Documents\Visual Studio 2013\Projects\TelerikAcademy\DB\DB-Preparation\CodeFirst\StudentsSystem.Models\obj\Debug\StudentsSystem.Models.dll
+C:\Users\dzhenko\Documents\Visual Studio 2013\Projects\TelerikAcademy\DB\DB-Preparation\CodeFirst\StudentsSystem.Models\obj\Debug\StudentsSystem.Models.pdb
+C:\Users\ARCHANGEL\Downloads\08.CodeFirst\StudentsSystem.Models\bin\Debug\StudentsSystem.Models.dll
+C:\Users\ARCHANGEL\Downloads\08.CodeFirst\StudentsSystem.Models\bin\Debug\StudentsSystem.Models.pdb
+C:\Users\ARCHANGEL\Downloads\08.CodeFirst\StudentsSystem.Models\obj\Debug\StudentsSystem.Models.csprojResolveAssemblyReference.cache
+C:\Users\ARCHANGEL\Downloads\08.CodeFirst\StudentsSystem.Models\obj\Debug\StudentsSystem.Models.dll
+C:\Users\ARCHANGEL\Downloads\08.CodeFirst\StudentsSystem.Models\obj\Debug\StudentsSystem.Models.pdb

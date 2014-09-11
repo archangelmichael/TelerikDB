@@ -1,0 +1,5 @@
+C:\Users\ARCHANGEL\Downloads\08.CodeFirst\StudentsSystemClasses\bin\Debug\StudentsSystemClasses.dll
+C:\Users\ARCHANGEL\Downloads\08.CodeFirst\StudentsSystemClasses\bin\Debug\StudentsSystemClasses.pdb
+C:\Users\ARCHANGEL\Downloads\08.CodeFirst\StudentsSystemClasses\obj\Debug\StudentsSystemClasses.csprojResolveAssemblyReference.cache
+C:\Users\ARCHANGEL\Downloads\08.CodeFirst\StudentsSystemClasses\obj\Debug\StudentsSystemClasses.dll
+C:\Users\ARCHANGEL\Downloads\08.CodeFirst\StudentsSystemClasses\obj\Debug\StudentsSystemClasses.pdb

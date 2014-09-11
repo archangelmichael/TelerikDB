@@ -1,0 +1,5 @@
+C:\Users\ARCHANGEL\Documents\Visual Studio 2012\Projects\08.2014.DB\14.XMLProcessing\05.ExtractSongTitles\bin\Debug\05.ExtractSongTitles.exe.config
+C:\Users\ARCHANGEL\Documents\Visual Studio 2012\Projects\08.2014.DB\14.XMLProcessing\05.ExtractSongTitles\bin\Debug\05.ExtractSongTitles.exe
+C:\Users\ARCHANGEL\Documents\Visual Studio 2012\Projects\08.2014.DB\14.XMLProcessing\05.ExtractSongTitles\bin\Debug\05.ExtractSongTitles.pdb
+C:\Users\ARCHANGEL\Documents\Visual Studio 2012\Projects\08.2014.DB\14.XMLProcessing\05.ExtractSongTitles\obj\Debug\05.ExtractSongTitles.exe
+C:\Users\ARCHANGEL\Documents\Visual Studio 2012\Projects\08.2014.DB\14.XMLProcessing\05.ExtractSongTitles\obj\Debug\05.ExtractSongTitles.pdb

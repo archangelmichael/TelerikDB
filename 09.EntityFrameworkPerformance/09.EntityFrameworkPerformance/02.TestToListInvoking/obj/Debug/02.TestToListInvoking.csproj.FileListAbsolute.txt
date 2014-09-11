@@ -1,0 +1,11 @@
+C:\Users\ARCHANGEL\Documents\Visual Studio 2012\Projects\08.2014.DB\09.EntityFrameworkPerformance\09.EntityFrameworkPerformance\02.TestToListInvoking\bin\Debug\02.TestToListInvoking.exe.config
+C:\Users\ARCHANGEL\Documents\Visual Studio 2012\Projects\08.2014.DB\09.EntityFrameworkPerformance\09.EntityFrameworkPerformance\02.TestToListInvoking\bin\Debug\02.TestToListInvoking.exe
+C:\Users\ARCHANGEL\Documents\Visual Studio 2012\Projects\08.2014.DB\09.EntityFrameworkPerformance\09.EntityFrameworkPerformance\02.TestToListInvoking\bin\Debug\02.TestToListInvoking.pdb
+C:\Users\ARCHANGEL\Documents\Visual Studio 2012\Projects\08.2014.DB\09.EntityFrameworkPerformance\09.EntityFrameworkPerformance\02.TestToListInvoking\bin\Debug\EntityFramework.dll
+C:\Users\ARCHANGEL\Documents\Visual Studio 2012\Projects\08.2014.DB\09.EntityFrameworkPerformance\09.EntityFrameworkPerformance\02.TestToListInvoking\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\ARCHANGEL\Documents\Visual Studio 2012\Projects\08.2014.DB\09.EntityFrameworkPerformance\09.EntityFrameworkPerformance\02.TestToListInvoking\bin\Debug\TelerikAcademyDatabase.dll
+C:\Users\ARCHANGEL\Documents\Visual Studio 2012\Projects\08.2014.DB\09.EntityFrameworkPerformance\09.EntityFrameworkPerformance\02.TestToListInvoking\bin\Debug\TelerikAcademyDatabase.pdb
+C:\Users\ARCHANGEL\Documents\Visual Studio 2012\Projects\08.2014.DB\09.EntityFrameworkPerformance\09.EntityFrameworkPerformance\02.TestToListInvoking\bin\Debug\EntityFramework.xml
+C:\Users\ARCHANGEL\Documents\Visual Studio 2012\Projects\08.2014.DB\09.EntityFrameworkPerformance\09.EntityFrameworkPerformance\02.TestToListInvoking\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\ARCHANGEL\Documents\Visual Studio 2012\Projects\08.2014.DB\09.EntityFrameworkPerformance\09.EntityFrameworkPerformance\02.TestToListInvoking\obj\Debug\02.TestToListInvoking.exe
+C:\Users\ARCHANGEL\Documents\Visual Studio 2012\Projects\08.2014.DB\09.EntityFrameworkPerformance\09.EntityFrameworkPerformance\02.TestToListInvoking\obj\Debug\02.TestToListInvoking.pdb

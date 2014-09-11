@@ -1,0 +1,10 @@
+C:\Users\ARCHANGEL\Documents\Visual Studio 2012\Projects\08.2014.DB\07.EntityFrameworkManipulations\EntityFrameworkNorthwindModel\bin\Debug\EntityFrameworkNorthwindModel.dll.config
+C:\Users\ARCHANGEL\Documents\Visual Studio 2012\Projects\08.2014.DB\07.EntityFrameworkManipulations\EntityFrameworkNorthwindModel\bin\Debug\EntityFrameworkNorthwindModel.dll
+C:\Users\ARCHANGEL\Documents\Visual Studio 2012\Projects\08.2014.DB\07.EntityFrameworkManipulations\EntityFrameworkNorthwindModel\bin\Debug\EntityFrameworkNorthwindModel.pdb
+C:\Users\ARCHANGEL\Documents\Visual Studio 2012\Projects\08.2014.DB\07.EntityFrameworkManipulations\EntityFrameworkNorthwindModel\bin\Debug\EntityFramework.dll
+C:\Users\ARCHANGEL\Documents\Visual Studio 2012\Projects\08.2014.DB\07.EntityFrameworkManipulations\EntityFrameworkNorthwindModel\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\ARCHANGEL\Documents\Visual Studio 2012\Projects\08.2014.DB\07.EntityFrameworkManipulations\EntityFrameworkNorthwindModel\bin\Debug\EntityFramework.xml
+C:\Users\ARCHANGEL\Documents\Visual Studio 2012\Projects\08.2014.DB\07.EntityFrameworkManipulations\EntityFrameworkNorthwindModel\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\ARCHANGEL\Documents\Visual Studio 2012\Projects\08.2014.DB\07.EntityFrameworkManipulations\EntityFrameworkNorthwindModel\obj\Debug\EntityFrameworkNorthwindModel.csprojResolveAssemblyReference.cache
+C:\Users\ARCHANGEL\Documents\Visual Studio 2012\Projects\08.2014.DB\07.EntityFrameworkManipulations\EntityFrameworkNorthwindModel\obj\Debug\EntityFrameworkNorthwindModel.dll
+C:\Users\ARCHANGEL\Documents\Visual Studio 2012\Projects\08.2014.DB\07.EntityFrameworkManipulations\EntityFrameworkNorthwindModel\obj\Debug\EntityFrameworkNorthwindModel.pdb

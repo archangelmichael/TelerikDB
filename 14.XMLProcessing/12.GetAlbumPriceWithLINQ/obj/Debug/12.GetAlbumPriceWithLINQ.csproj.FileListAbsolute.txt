@@ -1,0 +1,6 @@
+C:\Users\ARCHANGEL\Documents\Visual Studio 2012\Projects\08.2014.DB\14.XMLProcessing\12.GetAlbumPriceWithLINQ\bin\Debug\12.GetAlbumPriceWithLINQ.exe.config
+C:\Users\ARCHANGEL\Documents\Visual Studio 2012\Projects\08.2014.DB\14.XMLProcessing\12.GetAlbumPriceWithLINQ\obj\Debug\12.GetAlbumPriceWithLINQ.csprojResolveAssemblyReference.cache
+C:\Users\ARCHANGEL\Documents\Visual Studio 2012\Projects\08.2014.DB\14.XMLProcessing\12.GetAlbumPriceWithLINQ\bin\Debug\12.GetAlbumPriceWithLINQ.exe
+C:\Users\ARCHANGEL\Documents\Visual Studio 2012\Projects\08.2014.DB\14.XMLProcessing\12.GetAlbumPriceWithLINQ\bin\Debug\12.GetAlbumPriceWithLINQ.pdb
+C:\Users\ARCHANGEL\Documents\Visual Studio 2012\Projects\08.2014.DB\14.XMLProcessing\12.GetAlbumPriceWithLINQ\obj\Debug\12.GetAlbumPriceWithLINQ.exe
+C:\Users\ARCHANGEL\Documents\Visual Studio 2012\Projects\08.2014.DB\14.XMLProcessing\12.GetAlbumPriceWithLINQ\obj\Debug\12.GetAlbumPriceWithLINQ.pdb

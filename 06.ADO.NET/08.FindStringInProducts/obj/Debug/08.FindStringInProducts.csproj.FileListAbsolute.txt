@@ -1,0 +1,5 @@
+C:\Users\ARCHANGEL\Documents\Visual Studio 2012\Projects\08.2014.DB\06.ADO.NET\08.FindStringInProducts\bin\Debug\08.FindStringInProducts.exe.config
+C:\Users\ARCHANGEL\Documents\Visual Studio 2012\Projects\08.2014.DB\06.ADO.NET\08.FindStringInProducts\bin\Debug\08.FindStringInProducts.exe
+C:\Users\ARCHANGEL\Documents\Visual Studio 2012\Projects\08.2014.DB\06.ADO.NET\08.FindStringInProducts\bin\Debug\08.FindStringInProducts.pdb
+C:\Users\ARCHANGEL\Documents\Visual Studio 2012\Projects\08.2014.DB\06.ADO.NET\08.FindStringInProducts\obj\Debug\08.FindStringInProducts.exe
+C:\Users\ARCHANGEL\Documents\Visual Studio 2012\Projects\08.2014.DB\06.ADO.NET\08.FindStringInProducts\obj\Debug\08.FindStringInProducts.pdb

@@ -1,0 +1,10 @@
+C:\Users\ARCHANGEL\Documents\Visual Studio 2012\Projects\08.2014.DB\09.EntityFrameworkPerformance\09.EntityFrameworkPerformance\TelerikAcademyDatabase\bin\Debug\TelerikAcademyDatabase.dll.config
+C:\Users\ARCHANGEL\Documents\Visual Studio 2012\Projects\08.2014.DB\09.EntityFrameworkPerformance\09.EntityFrameworkPerformance\TelerikAcademyDatabase\bin\Debug\TelerikAcademyDatabase.dll
+C:\Users\ARCHANGEL\Documents\Visual Studio 2012\Projects\08.2014.DB\09.EntityFrameworkPerformance\09.EntityFrameworkPerformance\TelerikAcademyDatabase\bin\Debug\TelerikAcademyDatabase.pdb
+C:\Users\ARCHANGEL\Documents\Visual Studio 2012\Projects\08.2014.DB\09.EntityFrameworkPerformance\09.EntityFrameworkPerformance\TelerikAcademyDatabase\bin\Debug\EntityFramework.dll
+C:\Users\ARCHANGEL\Documents\Visual Studio 2012\Projects\08.2014.DB\09.EntityFrameworkPerformance\09.EntityFrameworkPerformance\TelerikAcademyDatabase\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\ARCHANGEL\Documents\Visual Studio 2012\Projects\08.2014.DB\09.EntityFrameworkPerformance\09.EntityFrameworkPerformance\TelerikAcademyDatabase\bin\Debug\EntityFramework.xml
+C:\Users\ARCHANGEL\Documents\Visual Studio 2012\Projects\08.2014.DB\09.EntityFrameworkPerformance\09.EntityFrameworkPerformance\TelerikAcademyDatabase\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\ARCHANGEL\Documents\Visual Studio 2012\Projects\08.2014.DB\09.EntityFrameworkPerformance\09.EntityFrameworkPerformance\TelerikAcademyDatabase\obj\Debug\TelerikAcademyDatabase.csprojResolveAssemblyReference.cache
+C:\Users\ARCHANGEL\Documents\Visual Studio 2012\Projects\08.2014.DB\09.EntityFrameworkPerformance\09.EntityFrameworkPerformance\TelerikAcademyDatabase\obj\Debug\TelerikAcademyDatabase.dll
+C:\Users\ARCHANGEL\Documents\Visual Studio 2012\Projects\08.2014.DB\09.EntityFrameworkPerformance\09.EntityFrameworkPerformance\TelerikAcademyDatabase\obj\Debug\TelerikAcademyDatabase.pdb

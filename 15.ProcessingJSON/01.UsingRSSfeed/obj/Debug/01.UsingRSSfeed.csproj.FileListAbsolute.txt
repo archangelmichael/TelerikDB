@@ -1,0 +1,10 @@
+C:\Users\ARCHANGEL\Documents\Visual Studio 2012\Projects\08.2014.DB\15.ProcessingJSON\01.UsingRSSfeed\bin\Debug\01.UsingRSSfeed.exe.config
+C:\Users\ARCHANGEL\Documents\Visual Studio 2012\Projects\08.2014.DB\15.ProcessingJSON\01.UsingRSSfeed\obj\Debug\01.UsingRSSfeed.csprojResolveAssemblyReference.cache
+C:\Users\ARCHANGEL\Documents\Visual Studio 2012\Projects\08.2014.DB\15.ProcessingJSON\01.UsingRSSfeed\bin\Debug\01.UsingRSSfeed.exe
+C:\Users\ARCHANGEL\Documents\Visual Studio 2012\Projects\08.2014.DB\15.ProcessingJSON\01.UsingRSSfeed\bin\Debug\01.UsingRSSfeed.pdb
+C:\Users\ARCHANGEL\Documents\Visual Studio 2012\Projects\08.2014.DB\15.ProcessingJSON\01.UsingRSSfeed\obj\Debug\01.UsingRSSfeed.exe
+C:\Users\ARCHANGEL\Documents\Visual Studio 2012\Projects\08.2014.DB\15.ProcessingJSON\01.UsingRSSfeed\obj\Debug\01.UsingRSSfeed.pdb
+C:\Users\ARCHANGEL\Documents\Visual Studio 2012\Projects\08.2014.DB\15.ProcessingJSON\01.UsingRSSfeed\bin\Debug\Newtonsoft.Json.dll
+C:\Users\ARCHANGEL\Documents\Visual Studio 2012\Projects\08.2014.DB\15.ProcessingJSON\01.UsingRSSfeed\bin\Debug\Newtonsoft.Json.xml
+C:\Users\ARCHANGEL\Documents\Visual Studio 2012\Projects\08.2014.DB\15.ProcessingJSON\01.UsingRSSfeed\bin\Debug\FeedObjects.dll
+C:\Users\ARCHANGEL\Documents\Visual Studio 2012\Projects\08.2014.DB\15.ProcessingJSON\01.UsingRSSfeed\bin\Debug\FeedObjects.pdb

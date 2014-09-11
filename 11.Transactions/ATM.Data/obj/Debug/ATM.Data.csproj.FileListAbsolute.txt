@@ -1,0 +1,10 @@
+C:\Users\ARCHANGEL\Documents\Visual Studio 2012\Projects\08.2014.DB\11.Transactions\ATM.Data\bin\Debug\ATM.Data.dll.config
+C:\Users\ARCHANGEL\Documents\Visual Studio 2012\Projects\08.2014.DB\11.Transactions\ATM.Data\bin\Debug\ATM.Data.dll
+C:\Users\ARCHANGEL\Documents\Visual Studio 2012\Projects\08.2014.DB\11.Transactions\ATM.Data\bin\Debug\ATM.Data.pdb
+C:\Users\ARCHANGEL\Documents\Visual Studio 2012\Projects\08.2014.DB\11.Transactions\ATM.Data\bin\Debug\EntityFramework.dll
+C:\Users\ARCHANGEL\Documents\Visual Studio 2012\Projects\08.2014.DB\11.Transactions\ATM.Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\ARCHANGEL\Documents\Visual Studio 2012\Projects\08.2014.DB\11.Transactions\ATM.Data\bin\Debug\EntityFramework.xml
+C:\Users\ARCHANGEL\Documents\Visual Studio 2012\Projects\08.2014.DB\11.Transactions\ATM.Data\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\ARCHANGEL\Documents\Visual Studio 2012\Projects\08.2014.DB\11.Transactions\ATM.Data\obj\Debug\ATM.Data.csprojResolveAssemblyReference.cache
+C:\Users\ARCHANGEL\Documents\Visual Studio 2012\Projects\08.2014.DB\11.Transactions\ATM.Data\obj\Debug\ATM.Data.dll
+C:\Users\ARCHANGEL\Documents\Visual Studio 2012\Projects\08.2014.DB\11.Transactions\ATM.Data\obj\Debug\ATM.Data.pdb

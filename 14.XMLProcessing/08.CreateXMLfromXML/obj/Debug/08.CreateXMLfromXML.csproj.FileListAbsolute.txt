@@ -1,0 +1,5 @@
+C:\Users\ARCHANGEL\Documents\Visual Studio 2012\Projects\08.2014.DB\14.XMLProcessing\08.CreateXMLfromXML\bin\Debug\08.CreateXMLfromXML.exe.config
+C:\Users\ARCHANGEL\Documents\Visual Studio 2012\Projects\08.2014.DB\14.XMLProcessing\08.CreateXMLfromXML\bin\Debug\08.CreateXMLfromXML.exe
+C:\Users\ARCHANGEL\Documents\Visual Studio 2012\Projects\08.2014.DB\14.XMLProcessing\08.CreateXMLfromXML\bin\Debug\08.CreateXMLfromXML.pdb
+C:\Users\ARCHANGEL\Documents\Visual Studio 2012\Projects\08.2014.DB\14.XMLProcessing\08.CreateXMLfromXML\obj\Debug\08.CreateXMLfromXML.exe
+C:\Users\ARCHANGEL\Documents\Visual Studio 2012\Projects\08.2014.DB\14.XMLProcessing\08.CreateXMLfromXML\obj\Debug\08.CreateXMLfromXML.pdb

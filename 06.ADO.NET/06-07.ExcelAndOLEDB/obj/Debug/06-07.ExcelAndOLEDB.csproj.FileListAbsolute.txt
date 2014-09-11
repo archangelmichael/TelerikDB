@@ -1,0 +1,14 @@
+C:\Users\ARCHANGEL\Documents\Visual Studio 2012\Projects\08.2014.DB\06.ADO.NET\06-07.ExcelAndOLEDB\bin\Debug\06-07.ExcelAndOLEDB.exe.config
+C:\Users\ARCHANGEL\Documents\Visual Studio 2012\Projects\08.2014.DB\06.ADO.NET\06-07.ExcelAndOLEDB\bin\Debug\06-07.ExcelAndOLEDB.exe
+C:\Users\ARCHANGEL\Documents\Visual Studio 2012\Projects\08.2014.DB\06.ADO.NET\06-07.ExcelAndOLEDB\bin\Debug\06-07.ExcelAndOLEDB.pdb
+C:\Users\ARCHANGEL\Documents\Visual Studio 2012\Projects\08.2014.DB\06.ADO.NET\06-07.ExcelAndOLEDB\bin\Debug\EntityFramework.dll
+C:\Users\ARCHANGEL\Documents\Visual Studio 2012\Projects\08.2014.DB\06.ADO.NET\06-07.ExcelAndOLEDB\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\ARCHANGEL\Documents\Visual Studio 2012\Projects\08.2014.DB\06.ADO.NET\06-07.ExcelAndOLEDB\bin\Debug\EntityFramework.SqlServerCompact.dll
+C:\Users\ARCHANGEL\Documents\Visual Studio 2012\Projects\08.2014.DB\06.ADO.NET\06-07.ExcelAndOLEDB\bin\Debug\System.Data.SqlServerCe.dll
+C:\Users\ARCHANGEL\Documents\Visual Studio 2012\Projects\08.2014.DB\06.ADO.NET\06-07.ExcelAndOLEDB\bin\Debug\System.Data.SqlServerCe.Entity.dll
+C:\Users\ARCHANGEL\Documents\Visual Studio 2012\Projects\08.2014.DB\06.ADO.NET\06-07.ExcelAndOLEDB\bin\Debug\EntityFramework.xml
+C:\Users\ARCHANGEL\Documents\Visual Studio 2012\Projects\08.2014.DB\06.ADO.NET\06-07.ExcelAndOLEDB\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\ARCHANGEL\Documents\Visual Studio 2012\Projects\08.2014.DB\06.ADO.NET\06-07.ExcelAndOLEDB\bin\Debug\EntityFramework.SqlServerCompact.xml
+C:\Users\ARCHANGEL\Documents\Visual Studio 2012\Projects\08.2014.DB\06.ADO.NET\06-07.ExcelAndOLEDB\obj\Debug\06-07.ExcelAndOLEDB.csprojResolveAssemblyReference.cache
+C:\Users\ARCHANGEL\Documents\Visual Studio 2012\Projects\08.2014.DB\06.ADO.NET\06-07.ExcelAndOLEDB\obj\Debug\06-07.ExcelAndOLEDB.exe
+C:\Users\ARCHANGEL\Documents\Visual Studio 2012\Projects\08.2014.DB\06.ADO.NET\06-07.ExcelAndOLEDB\obj\Debug\06-07.ExcelAndOLEDB.pdb

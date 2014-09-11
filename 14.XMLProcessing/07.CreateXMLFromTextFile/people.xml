@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<people>
+	<person>
+		<name>Konstantin Velichkov</name>
+		<address>Sofia</address>
+		<phone>0888343212</phone>
+	</person>
+	<person>
+		<name>Velislav Georgiev</name>
+		<address>Sofia</address>
+		<phone>020345434</phone>
+	</person>
+	<person>
+		<name>Kiril Gristov</name>
+		<address>Burgas</address>
+		<phone>0989342344</phone>
+	</person>
+</people>

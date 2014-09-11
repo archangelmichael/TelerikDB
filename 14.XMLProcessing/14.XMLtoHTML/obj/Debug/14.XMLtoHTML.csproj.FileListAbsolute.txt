@@ -1,0 +1,6 @@
+C:\Users\ARCHANGEL\Documents\Visual Studio 2012\Projects\08.2014.DB\14.XMLProcessing\14.XMLtoHTML\bin\Debug\14.XMLtoHTML.exe.config
+C:\Users\ARCHANGEL\Documents\Visual Studio 2012\Projects\08.2014.DB\14.XMLProcessing\14.XMLtoHTML\bin\Debug\14.XMLtoHTML.exe
+C:\Users\ARCHANGEL\Documents\Visual Studio 2012\Projects\08.2014.DB\14.XMLProcessing\14.XMLtoHTML\bin\Debug\14.XMLtoHTML.pdb
+C:\Users\ARCHANGEL\Documents\Visual Studio 2012\Projects\08.2014.DB\14.XMLProcessing\14.XMLtoHTML\obj\Debug\14.XMLtoHTML.csprojResolveAssemblyReference.cache
+C:\Users\ARCHANGEL\Documents\Visual Studio 2012\Projects\08.2014.DB\14.XMLProcessing\14.XMLtoHTML\obj\Debug\14.XMLtoHTML.exe
+C:\Users\ARCHANGEL\Documents\Visual Studio 2012\Projects\08.2014.DB\14.XMLProcessing\14.XMLtoHTML\obj\Debug\14.XMLtoHTML.pdb

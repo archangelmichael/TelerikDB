@@ -1,0 +1,8 @@
+C:\Users\ARCHANGEL\Documents\Visual Studio 2012\Projects\08.2014.DB\06.ADO.NET\01-05.NorrthwindManipulations\bin\Debug\01-05.NorrthwindManipulations.exe.config
+C:\Users\ARCHANGEL\Documents\Visual Studio 2012\Projects\08.2014.DB\06.ADO.NET\01-05.NorrthwindManipulations\bin\Debug\01-05.NorrthwindManipulations.exe
+C:\Users\ARCHANGEL\Documents\Visual Studio 2012\Projects\08.2014.DB\06.ADO.NET\01-05.NorrthwindManipulations\bin\Debug\01-05.NorrthwindManipulations.pdb
+C:\Users\ARCHANGEL\Documents\Visual Studio 2012\Projects\08.2014.DB\06.ADO.NET\01-05.NorrthwindManipulations\bin\Debug\EntityFramework.dll
+C:\Users\ARCHANGEL\Documents\Visual Studio 2012\Projects\08.2014.DB\06.ADO.NET\01-05.NorrthwindManipulations\bin\Debug\EntityFramework.xml
+C:\Users\ARCHANGEL\Documents\Visual Studio 2012\Projects\08.2014.DB\06.ADO.NET\01-05.NorrthwindManipulations\obj\Debug\01-05.NorrthwindManipulations.csprojResolveAssemblyReference.cache
+C:\Users\ARCHANGEL\Documents\Visual Studio 2012\Projects\08.2014.DB\06.ADO.NET\01-05.NorrthwindManipulations\obj\Debug\01-05.NorrthwindManipulations.exe
+C:\Users\ARCHANGEL\Documents\Visual Studio 2012\Projects\08.2014.DB\06.ADO.NET\01-05.NorrthwindManipulations\obj\Debug\01-05.NorrthwindManipulations.pdb

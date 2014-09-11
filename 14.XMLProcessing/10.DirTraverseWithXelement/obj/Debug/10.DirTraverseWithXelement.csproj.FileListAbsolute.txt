@@ -1,0 +1,5 @@
+C:\Users\ARCHANGEL\Documents\Visual Studio 2012\Projects\08.2014.DB\14.XMLProcessing\10.DirTraverseWithXelement\bin\Debug\10.DirTraverseWithXelement.exe.config
+C:\Users\ARCHANGEL\Documents\Visual Studio 2012\Projects\08.2014.DB\14.XMLProcessing\10.DirTraverseWithXelement\bin\Debug\10.DirTraverseWithXelement.exe
+C:\Users\ARCHANGEL\Documents\Visual Studio 2012\Projects\08.2014.DB\14.XMLProcessing\10.DirTraverseWithXelement\bin\Debug\10.DirTraverseWithXelement.pdb
+C:\Users\ARCHANGEL\Documents\Visual Studio 2012\Projects\08.2014.DB\14.XMLProcessing\10.DirTraverseWithXelement\obj\Debug\10.DirTraverseWithXelement.exe
+C:\Users\ARCHANGEL\Documents\Visual Studio 2012\Projects\08.2014.DB\14.XMLProcessing\10.DirTraverseWithXelement\obj\Debug\10.DirTraverseWithXelement.pdb

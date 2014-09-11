@@ -1,0 +1,8 @@
+C:\Users\ARCHANGEL\Documents\Visual Studio 2012\Projects\08.2014.DB\14.XMLProcessing\01.XMLCatalogCreator\bin\Debug\01.XMLCatalogCreator.exe.config
+C:\Users\ARCHANGEL\Documents\Visual Studio 2012\Projects\08.2014.DB\14.XMLProcessing\01.XMLCatalogCreator\bin\Debug\01.XMLCatalogCreator.exe
+C:\Users\ARCHANGEL\Documents\Visual Studio 2012\Projects\08.2014.DB\14.XMLProcessing\01.XMLCatalogCreator\bin\Debug\01.XMLCatalogCreator.pdb
+C:\Users\ARCHANGEL\Documents\Visual Studio 2012\Projects\08.2014.DB\14.XMLProcessing\01.XMLCatalogCreator\bin\Debug\Catalog.Data.dll
+C:\Users\ARCHANGEL\Documents\Visual Studio 2012\Projects\08.2014.DB\14.XMLProcessing\01.XMLCatalogCreator\bin\Debug\Catalog.Data.pdb
+C:\Users\ARCHANGEL\Documents\Visual Studio 2012\Projects\08.2014.DB\14.XMLProcessing\01.XMLCatalogCreator\obj\Debug\01.XMLCatalogCreator.csprojResolveAssemblyReference.cache
+C:\Users\ARCHANGEL\Documents\Visual Studio 2012\Projects\08.2014.DB\14.XMLProcessing\01.XMLCatalogCreator\obj\Debug\01.XMLCatalogCreator.exe
+C:\Users\ARCHANGEL\Documents\Visual Studio 2012\Projects\08.2014.DB\14.XMLProcessing\01.XMLCatalogCreator\obj\Debug\01.XMLCatalogCreator.pdb

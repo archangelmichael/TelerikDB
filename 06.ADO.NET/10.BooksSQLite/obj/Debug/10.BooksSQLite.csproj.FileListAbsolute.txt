@@ -1,0 +1,9 @@
+C:\Users\ARCHANGEL\Documents\Visual Studio 2012\Projects\08.2014.DB\06.ADO.NET\10.BooksSQLite\bin\Debug\10.BooksSQLite.exe.config
+C:\Users\ARCHANGEL\Documents\Visual Studio 2012\Projects\08.2014.DB\06.ADO.NET\10.BooksSQLite\obj\Debug\10.BooksSQLite.csprojResolveAssemblyReference.cache
+C:\Users\ARCHANGEL\Documents\Visual Studio 2012\Projects\08.2014.DB\06.ADO.NET\10.BooksSQLite\obj\Debug\_10.BooksSQLite.Properties.Resources.resources
+C:\Users\ARCHANGEL\Documents\Visual Studio 2012\Projects\08.2014.DB\06.ADO.NET\10.BooksSQLite\obj\Debug\10.BooksSQLite.csproj.GenerateResource.Cache
+C:\Users\ARCHANGEL\Documents\Visual Studio 2012\Projects\08.2014.DB\06.ADO.NET\10.BooksSQLite\bin\Debug\10.BooksSQLite.exe
+C:\Users\ARCHANGEL\Documents\Visual Studio 2012\Projects\08.2014.DB\06.ADO.NET\10.BooksSQLite\bin\Debug\10.BooksSQLite.pdb
+C:\Users\ARCHANGEL\Documents\Visual Studio 2012\Projects\08.2014.DB\06.ADO.NET\10.BooksSQLite\obj\Debug\10.BooksSQLite.exe
+C:\Users\ARCHANGEL\Documents\Visual Studio 2012\Projects\08.2014.DB\06.ADO.NET\10.BooksSQLite\obj\Debug\10.BooksSQLite.pdb
+C:\Users\ARCHANGEL\Documents\Visual Studio 2012\Projects\08.2014.DB\06.ADO.NET\10.BooksSQLite\obj\Debug\_10.BooksSQLite.Library.resources

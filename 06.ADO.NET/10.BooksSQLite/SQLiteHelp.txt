@@ -1,0 +1,109 @@
+using Finisar.SQLite;
+    using System.Data;
+    /*
+    Re-implement the previous task with SQLite embedded DB.
+    Create a SQLite database to store Books (title, author, publish date and ISBN). 
+    Write methods for listing all books, finding a book by name and adding a book. 
+    */
+    //// ATTENTION YOU MIGHT NEED TO REFERENCE SQLite.Net.dll FROM THE PROJECT FOLDER IF IT IS NOT WORKING
+
+    public class SQLiteManipulations
+    {
+        private static SQLiteConnection sql_con;
+        private static SQLiteCommand sql_cmd;
+        private static SQLiteDataAdapter DB;
+        private static DataSet DS = new DataSet();
+        private static DataTable DT = new DataTable();
+
+        public static void Main(string[] args)
+        {
+            // We use these three SQLite objects:
+            SQLiteConnection sqlite_conn;
+            SQLiteCommand sqlite_cmd;
+            SQLiteDataReader sqlite_datareader;
+
+            // create a new database connection:
+            sqlite_conn = new SQLiteConnection("Data Source=database.db;Version=3;New=True;Compress=True;");
+
+            // open the connection:
+            sqlite_conn.Open();
+
+            // create a new SQL command:
+            sqlite_cmd = sqlite_conn.CreateCommand();
+
+            // Let the SQLiteCommand object know our SQL-Query:
+            sqlite_cmd.CommandText = "CREATE TABLE test (id integer primary key, text varchar(100));";
+
+            // Now lets execute the SQL ;D
+            sqlite_cmd.ExecuteNonQuery();
+
+            // Lets insert something into our new table:
+            sqlite_cmd.CommandText = "INSERT INTO test (id, text) VALUES (1, 'Test Text 1');";
+
+            // And execute this again ;D
+            sqlite_cmd.ExecuteNonQuery();
+
+            // ...and inserting another line:
+            sqlite_cmd.CommandText = "INSERT INTO test (id, text) VALUES (2, 'Test Text 2');";
+
+            // And execute this again ;D
+            sqlite_cmd.ExecuteNonQuery();
+
+            // But how do we read something out of our table ?
+            // First lets build a SQL-Query again:
+            sqlite_cmd.CommandText = "SELECT * FROM test";
+
+            // Now the SQLiteCommand object can give us a DataReader-Object:
+            sqlite_datareader = sqlite_cmd.ExecuteReader();
+
+            // The SQLiteDataReader allows us to run through the result lines:
+            while (sqlite_datareader.Read()) // Read() returns true if there is still a result line to read
+            {
+                // Print out the content of the text field:
+                System.Console.WriteLine(sqlite_datareader["text"]);
+            }
+
+            // We are ready, now lets cleanup and close our connection:
+            sqlite_conn.Close();
+
+
+
+            //SetConnection();
+        }
+
+        private static void SetConnection()
+        {
+            sql_con = new SQLiteConnection("Data Sourse=database.db; Version=2; New=True; Compress=True;");
+            sql_con.Open();
+        }
+
+        //private void ExecuteQuery(string txtQuery)
+        //{
+        //    SetConnection();
+        //    sql_con.Open();
+        //    sql_cmd = sql_con.CreateCommand();
+        //    sql_cmd.CommandText = txtQuery;
+        //    sql_cmd.ExecuteNonQuery();
+        //    sql_con.Close();
+        //}
+
+        //private void LoadData()
+        //{
+        //    SetConnection();
+        //    sql_con.Open();
+        //    sql_cmd = sql_con.CreateCommand();
+        //    string CommandText = "select id, desc from mains";
+        //    DB = new SQLiteDataAdapter(CommandText, sql_con);
+        //    DS.Reset();
+        //    DB.Fill(DS);
+        //    DT = DS.Tables[0];
+        //    Grid.DataSource = DT;
+        //    sql_con.Close();
+        //}
+
+        //private void Add()
+        //{
+        //    string txtSQLQuery = "insert into  mains (desc) values ('" + txtDesc.Text + "')";
+        //    ExecuteQuery(txtSQLQuery);
+        //}
+    }

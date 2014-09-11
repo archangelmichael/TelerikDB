@@ -1,0 +1,14 @@
+C:\Users\ARCHANGEL\Downloads\08.CodeFirst\StudentsSystemApp\bin\Debug\StudentsSystemApp.exe.config
+C:\Users\ARCHANGEL\Downloads\08.CodeFirst\StudentsSystemApp\bin\Debug\StudentsSystemApp.exe
+C:\Users\ARCHANGEL\Downloads\08.CodeFirst\StudentsSystemApp\bin\Debug\StudentsSystemApp.pdb
+C:\Users\ARCHANGEL\Downloads\08.CodeFirst\StudentsSystemApp\bin\Debug\EntityFramework.dll
+C:\Users\ARCHANGEL\Downloads\08.CodeFirst\StudentsSystemApp\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\ARCHANGEL\Downloads\08.CodeFirst\StudentsSystemApp\bin\Debug\StudentsSystemClasses.dll
+C:\Users\ARCHANGEL\Downloads\08.CodeFirst\StudentsSystemApp\bin\Debug\StudentsSystemModel.dll
+C:\Users\ARCHANGEL\Downloads\08.CodeFirst\StudentsSystemApp\bin\Debug\StudentsSystemClasses.pdb
+C:\Users\ARCHANGEL\Downloads\08.CodeFirst\StudentsSystemApp\bin\Debug\StudentsSystemModel.pdb
+C:\Users\ARCHANGEL\Downloads\08.CodeFirst\StudentsSystemApp\bin\Debug\EntityFramework.xml
+C:\Users\ARCHANGEL\Downloads\08.CodeFirst\StudentsSystemApp\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\ARCHANGEL\Downloads\08.CodeFirst\StudentsSystemApp\obj\Debug\StudentsSystemApp.csprojResolveAssemblyReference.cache
+C:\Users\ARCHANGEL\Downloads\08.CodeFirst\StudentsSystemApp\obj\Debug\StudentsSystemApp.exe
+C:\Users\ARCHANGEL\Downloads\08.CodeFirst\StudentsSystemApp\obj\Debug\StudentsSystemApp.pdb

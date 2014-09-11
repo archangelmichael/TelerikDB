@@ -1,0 +1,1 @@
+C:\Users\ARCHANGEL\Documents\Visual Studio 2012\Projects\08.2014.DB\12.MongoDb\MongoChat.Client\bin\Debug\MongoChat.Client.exe.config
