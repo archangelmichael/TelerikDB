@@ -1,0 +1,12 @@
+E:\Studing Projects\ExamPrepDatabasesWithMySql\DatabaseFirst\Orders.Data\bin\Debug\Orders.Data.dll.config
+E:\Studing Projects\ExamPrepDatabasesWithMySql\DatabaseFirst\Orders.Data\bin\Debug\Orders.Data.dll
+E:\Studing Projects\ExamPrepDatabasesWithMySql\DatabaseFirst\Orders.Data\bin\Debug\Orders.Data.pdb
+E:\Studing Projects\ExamPrepDatabasesWithMySql\DatabaseFirst\Orders.Data\bin\Debug\EntityFramework.dll
+E:\Studing Projects\ExamPrepDatabasesWithMySql\DatabaseFirst\Orders.Data\bin\Debug\EntityFramework.SqlServer.dll
+E:\Studing Projects\ExamPrepDatabasesWithMySql\DatabaseFirst\Orders.Data\bin\Debug\MySql.Data.dll
+E:\Studing Projects\ExamPrepDatabasesWithMySql\DatabaseFirst\Orders.Data\bin\Debug\MySql.Data.Entity.EF6.dll
+E:\Studing Projects\ExamPrepDatabasesWithMySql\DatabaseFirst\Orders.Data\bin\Debug\MySql.Web.dll
+E:\Studing Projects\ExamPrepDatabasesWithMySql\DatabaseFirst\Orders.Data\bin\Debug\EntityFramework.xml
+E:\Studing Projects\ExamPrepDatabasesWithMySql\DatabaseFirst\Orders.Data\bin\Debug\EntityFramework.SqlServer.xml
+E:\Studing Projects\ExamPrepDatabasesWithMySql\DatabaseFirst\Orders.Data\obj\Debug\Orders.Data.dll
+E:\Studing Projects\ExamPrepDatabasesWithMySql\DatabaseFirst\Orders.Data\obj\Debug\Orders.Data.pdb

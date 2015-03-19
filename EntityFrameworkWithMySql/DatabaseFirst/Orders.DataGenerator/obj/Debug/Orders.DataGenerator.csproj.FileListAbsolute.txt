@@ -1,0 +1,15 @@
+E:\Studing Projects\ExamPrepDatabasesWithMySql\DatabaseFirst\Orders.DataGenerator\obj\Debug\Orders.DataGenerator.csprojResolveAssemblyReference.cache
+E:\Studing Projects\ExamPrepDatabasesWithMySql\DatabaseFirst\Orders.DataGenerator\bin\Debug\Orders.DataGenerator.exe.config
+E:\Studing Projects\ExamPrepDatabasesWithMySql\DatabaseFirst\Orders.DataGenerator\bin\Debug\Orders.DataGenerator.exe
+E:\Studing Projects\ExamPrepDatabasesWithMySql\DatabaseFirst\Orders.DataGenerator\bin\Debug\Orders.DataGenerator.pdb
+E:\Studing Projects\ExamPrepDatabasesWithMySql\DatabaseFirst\Orders.DataGenerator\bin\Debug\EntityFramework.dll
+E:\Studing Projects\ExamPrepDatabasesWithMySql\DatabaseFirst\Orders.DataGenerator\bin\Debug\EntityFramework.SqlServer.dll
+E:\Studing Projects\ExamPrepDatabasesWithMySql\DatabaseFirst\Orders.DataGenerator\bin\Debug\MySql.Data.dll
+E:\Studing Projects\ExamPrepDatabasesWithMySql\DatabaseFirst\Orders.DataGenerator\bin\Debug\MySql.Data.Entity.EF6.dll
+E:\Studing Projects\ExamPrepDatabasesWithMySql\DatabaseFirst\Orders.DataGenerator\bin\Debug\MySql.Web.dll
+E:\Studing Projects\ExamPrepDatabasesWithMySql\DatabaseFirst\Orders.DataGenerator\bin\Debug\Orders.Data.dll
+E:\Studing Projects\ExamPrepDatabasesWithMySql\DatabaseFirst\Orders.DataGenerator\bin\Debug\Orders.Data.pdb
+E:\Studing Projects\ExamPrepDatabasesWithMySql\DatabaseFirst\Orders.DataGenerator\bin\Debug\EntityFramework.xml
+E:\Studing Projects\ExamPrepDatabasesWithMySql\DatabaseFirst\Orders.DataGenerator\bin\Debug\EntityFramework.SqlServer.xml
+E:\Studing Projects\ExamPrepDatabasesWithMySql\DatabaseFirst\Orders.DataGenerator\obj\Debug\Orders.DataGenerator.exe
+E:\Studing Projects\ExamPrepDatabasesWithMySql\DatabaseFirst\Orders.DataGenerator\obj\Debug\Orders.DataGenerator.pdb

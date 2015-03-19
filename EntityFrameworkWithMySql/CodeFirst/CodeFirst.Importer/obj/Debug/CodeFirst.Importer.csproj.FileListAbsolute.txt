@@ -1,0 +1,17 @@
+E:\Studing Projects\ExamPrepDatabasesWithMySql\CodeFirst\CodeFirst.Importer\bin\Debug\CodeFirst.Importer.exe.config
+E:\Studing Projects\ExamPrepDatabasesWithMySql\CodeFirst\CodeFirst.Importer\bin\Debug\CodeFirst.Importer.exe
+E:\Studing Projects\ExamPrepDatabasesWithMySql\CodeFirst\CodeFirst.Importer\bin\Debug\CodeFirst.Importer.pdb
+E:\Studing Projects\ExamPrepDatabasesWithMySql\CodeFirst\CodeFirst.Importer\bin\Debug\CodeFirst.Data.dll
+E:\Studing Projects\ExamPrepDatabasesWithMySql\CodeFirst\CodeFirst.Importer\bin\Debug\CodeFirst.Models.dll
+E:\Studing Projects\ExamPrepDatabasesWithMySql\CodeFirst\CodeFirst.Importer\bin\Debug\EntityFramework.dll
+E:\Studing Projects\ExamPrepDatabasesWithMySql\CodeFirst\CodeFirst.Importer\bin\Debug\EntityFramework.SqlServer.dll
+E:\Studing Projects\ExamPrepDatabasesWithMySql\CodeFirst\CodeFirst.Importer\bin\Debug\MySql.Data.dll
+E:\Studing Projects\ExamPrepDatabasesWithMySql\CodeFirst\CodeFirst.Importer\bin\Debug\MySql.Data.Entity.EF6.dll
+E:\Studing Projects\ExamPrepDatabasesWithMySql\CodeFirst\CodeFirst.Importer\bin\Debug\MySql.Web.dll
+E:\Studing Projects\ExamPrepDatabasesWithMySql\CodeFirst\CodeFirst.Importer\bin\Debug\CodeFirst.Data.pdb
+E:\Studing Projects\ExamPrepDatabasesWithMySql\CodeFirst\CodeFirst.Importer\bin\Debug\CodeFirst.Models.pdb
+E:\Studing Projects\ExamPrepDatabasesWithMySql\CodeFirst\CodeFirst.Importer\bin\Debug\EntityFramework.xml
+E:\Studing Projects\ExamPrepDatabasesWithMySql\CodeFirst\CodeFirst.Importer\bin\Debug\EntityFramework.SqlServer.xml
+E:\Studing Projects\ExamPrepDatabasesWithMySql\CodeFirst\CodeFirst.Importer\obj\Debug\CodeFirst.Importer.csprojResolveAssemblyReference.cache
+E:\Studing Projects\ExamPrepDatabasesWithMySql\CodeFirst\CodeFirst.Importer\obj\Debug\CodeFirst.Importer.exe
+E:\Studing Projects\ExamPrepDatabasesWithMySql\CodeFirst\CodeFirst.Importer\obj\Debug\CodeFirst.Importer.pdb

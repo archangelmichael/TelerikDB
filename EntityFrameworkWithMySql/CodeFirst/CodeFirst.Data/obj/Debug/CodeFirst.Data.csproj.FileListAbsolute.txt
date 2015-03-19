@@ -1,0 +1,15 @@
+E:\Studing Projects\ExamPrepDatabasesWithMySql\CodeFirst\CodeFirst.Data\bin\Debug\CodeFirst.Data.dll.config
+E:\Studing Projects\ExamPrepDatabasesWithMySql\CodeFirst\CodeFirst.Data\bin\Debug\CodeFirst.Data.dll
+E:\Studing Projects\ExamPrepDatabasesWithMySql\CodeFirst\CodeFirst.Data\bin\Debug\CodeFirst.Data.pdb
+E:\Studing Projects\ExamPrepDatabasesWithMySql\CodeFirst\CodeFirst.Data\bin\Debug\CodeFirst.Models.dll
+E:\Studing Projects\ExamPrepDatabasesWithMySql\CodeFirst\CodeFirst.Data\bin\Debug\EntityFramework.dll
+E:\Studing Projects\ExamPrepDatabasesWithMySql\CodeFirst\CodeFirst.Data\bin\Debug\EntityFramework.SqlServer.dll
+E:\Studing Projects\ExamPrepDatabasesWithMySql\CodeFirst\CodeFirst.Data\bin\Debug\MySql.Data.dll
+E:\Studing Projects\ExamPrepDatabasesWithMySql\CodeFirst\CodeFirst.Data\bin\Debug\MySql.Data.Entity.EF6.dll
+E:\Studing Projects\ExamPrepDatabasesWithMySql\CodeFirst\CodeFirst.Data\bin\Debug\MySql.Web.dll
+E:\Studing Projects\ExamPrepDatabasesWithMySql\CodeFirst\CodeFirst.Data\bin\Debug\CodeFirst.Models.pdb
+E:\Studing Projects\ExamPrepDatabasesWithMySql\CodeFirst\CodeFirst.Data\bin\Debug\EntityFramework.xml
+E:\Studing Projects\ExamPrepDatabasesWithMySql\CodeFirst\CodeFirst.Data\bin\Debug\EntityFramework.SqlServer.xml
+E:\Studing Projects\ExamPrepDatabasesWithMySql\CodeFirst\CodeFirst.Data\obj\Debug\CodeFirst.Data.csprojResolveAssemblyReference.cache
+E:\Studing Projects\ExamPrepDatabasesWithMySql\CodeFirst\CodeFirst.Data\obj\Debug\CodeFirst.Data.dll
+E:\Studing Projects\ExamPrepDatabasesWithMySql\CodeFirst\CodeFirst.Data\obj\Debug\CodeFirst.Data.pdb
