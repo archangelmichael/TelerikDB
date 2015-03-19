@@ -1,0 +1,6 @@
+ASP.Net Web Api using MySql for database provider
+
+Supported Services:
+GET
+POST
+

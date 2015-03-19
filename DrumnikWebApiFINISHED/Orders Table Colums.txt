@@ -1,0 +1,10 @@
+id  int primary key => auto increment
+firstname varchar(50)
+lastname varchar(50)
+phone varchar(18)
+email varchar(50)
+brand varchar(50)
+registration varchar (10)
+maintenance varchar(100)
+checkdate datetime
+information varchar (250)

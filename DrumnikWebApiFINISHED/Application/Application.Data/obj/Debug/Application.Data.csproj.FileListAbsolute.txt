@@ -1,0 +1,73 @@
+c:\users\archangel\documents\visual studio 2013\Projects\Application\Application.Data\obj\Debug\Application.Data.csprojResolveAssemblyReference.cache
+c:\users\archangel\documents\visual studio 2013\Projects\Application\Application.Data\bin\Debug\Application.Data.dll.config
+c:\users\archangel\documents\visual studio 2013\Projects\Application\Application.Data\bin\Debug\Application.Data.dll
+c:\users\archangel\documents\visual studio 2013\Projects\Application\Application.Data\bin\Debug\Application.Data.pdb
+c:\users\archangel\documents\visual studio 2013\Projects\Application\Application.Data\bin\Debug\Application.Models.dll
+c:\users\archangel\documents\visual studio 2013\Projects\Application\Application.Data\bin\Debug\EntityFramework.dll
+c:\users\archangel\documents\visual studio 2013\Projects\Application\Application.Data\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\archangel\documents\visual studio 2013\Projects\Application\Application.Data\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+c:\users\archangel\documents\visual studio 2013\Projects\Application\Application.Data\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+c:\users\archangel\documents\visual studio 2013\Projects\Application\Application.Data\bin\Debug\Application.Models.pdb
+c:\users\archangel\documents\visual studio 2013\Projects\Application\Application.Data\bin\Debug\EntityFramework.xml
+c:\users\archangel\documents\visual studio 2013\Projects\Application\Application.Data\bin\Debug\EntityFramework.SqlServer.xml
+c:\users\archangel\documents\visual studio 2013\Projects\Application\Application.Data\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+c:\users\archangel\documents\visual studio 2013\Projects\Application\Application.Data\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+c:\users\archangel\documents\visual studio 2013\Projects\Application\Application.Data\obj\Debug\Application.Data.dll
+c:\users\archangel\documents\visual studio 2013\Projects\Application\Application.Data\obj\Debug\Application.Data.pdb
+E:\Studing Projects\WebApiProjects\DrumnikWebApiFromtemplate\Application\Application.Data\obj\Debug\Application.Data.csprojResolveAssemblyReference.cache
+E:\Studing Projects\WebApiProjects\DrumnikWebApiFromtemplate\Application\Application.Data\obj\Debug\Application.Data.dll
+E:\Studing Projects\WebApiProjects\DrumnikWebApiFromtemplate\Application\Application.Data\obj\Debug\Application.Data.pdb
+E:\Studing Projects\WebApiProjects\DrumnikWebApiFromtemplate\Application\Application.Data\bin\Debug\Application.Data.dll.config
+E:\Studing Projects\WebApiProjects\DrumnikWebApiFromtemplate\Application\Application.Data\bin\Debug\Application.Data.dll
+E:\Studing Projects\WebApiProjects\DrumnikWebApiFromtemplate\Application\Application.Data\bin\Debug\Application.Models.dll
+E:\Studing Projects\WebApiProjects\DrumnikWebApiFromtemplate\Application\Application.Data\bin\Debug\EntityFramework.dll
+E:\Studing Projects\WebApiProjects\DrumnikWebApiFromtemplate\Application\Application.Data\bin\Debug\EntityFramework.SqlServer.dll
+E:\Studing Projects\WebApiProjects\DrumnikWebApiFromtemplate\Application\Application.Data\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+E:\Studing Projects\WebApiProjects\DrumnikWebApiFromtemplate\Application\Application.Data\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\Studing Projects\WebApiProjects\DrumnikWebApiFromtemplate\Application\Application.Data\bin\Debug\MySql.Data.dll
+E:\Studing Projects\WebApiProjects\DrumnikWebApiFromtemplate\Application\Application.Data\bin\Debug\MySql.Data.Entity.EF6.dll
+E:\Studing Projects\WebApiProjects\DrumnikWebApiFromtemplate\Application\Application.Data\bin\Debug\MySql.Web.dll
+E:\Studing Projects\WebApiProjects\DrumnikWebApiFromtemplate\Application\Application.Data\bin\Debug\Application.Models.pdb
+E:\Studing Projects\WebApiProjects\DrumnikWebApiFromtemplate\Application\Application.Data\bin\Debug\EntityFramework.xml
+E:\Studing Projects\WebApiProjects\DrumnikWebApiFromtemplate\Application\Application.Data\bin\Debug\EntityFramework.SqlServer.xml
+E:\Studing Projects\WebApiProjects\DrumnikWebApiFromtemplate\Application\Application.Data\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+E:\Studing Projects\WebApiProjects\DrumnikWebApiFromtemplate\Application\Application.Data\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\Studing Projects\WebApiProjects\DrumnikWebApiFromtemplate\Application\Application.Data\bin\Debug\Application.Data.pdb
+E:\Studing Projects\WebApiProjects\DrumnikWebApiUsingTemplate\Application\Application.Data\bin\Debug\Application.Data.dll.config
+E:\Studing Projects\WebApiProjects\DrumnikWebApiUsingTemplate\Application\Application.Data\bin\Debug\Application.Data.dll
+E:\Studing Projects\WebApiProjects\DrumnikWebApiUsingTemplate\Application\Application.Data\bin\Debug\Application.Data.pdb
+E:\Studing Projects\WebApiProjects\DrumnikWebApiUsingTemplate\Application\Application.Data\bin\Debug\Application.Models.dll
+E:\Studing Projects\WebApiProjects\DrumnikWebApiUsingTemplate\Application\Application.Data\bin\Debug\EntityFramework.dll
+E:\Studing Projects\WebApiProjects\DrumnikWebApiUsingTemplate\Application\Application.Data\bin\Debug\EntityFramework.SqlServer.dll
+E:\Studing Projects\WebApiProjects\DrumnikWebApiUsingTemplate\Application\Application.Data\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+E:\Studing Projects\WebApiProjects\DrumnikWebApiUsingTemplate\Application\Application.Data\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\Studing Projects\WebApiProjects\DrumnikWebApiUsingTemplate\Application\Application.Data\bin\Debug\MySql.Data.dll
+E:\Studing Projects\WebApiProjects\DrumnikWebApiUsingTemplate\Application\Application.Data\bin\Debug\MySql.Data.Entity.EF6.dll
+E:\Studing Projects\WebApiProjects\DrumnikWebApiUsingTemplate\Application\Application.Data\bin\Debug\MySql.Web.dll
+E:\Studing Projects\WebApiProjects\DrumnikWebApiUsingTemplate\Application\Application.Data\bin\Debug\Application.Models.pdb
+E:\Studing Projects\WebApiProjects\DrumnikWebApiUsingTemplate\Application\Application.Data\bin\Debug\EntityFramework.xml
+E:\Studing Projects\WebApiProjects\DrumnikWebApiUsingTemplate\Application\Application.Data\bin\Debug\EntityFramework.SqlServer.xml
+E:\Studing Projects\WebApiProjects\DrumnikWebApiUsingTemplate\Application\Application.Data\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+E:\Studing Projects\WebApiProjects\DrumnikWebApiUsingTemplate\Application\Application.Data\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\Studing Projects\WebApiProjects\DrumnikWebApiUsingTemplate\Application\Application.Data\obj\Debug\Application.Data.csprojResolveAssemblyReference.cache
+E:\Studing Projects\WebApiProjects\DrumnikWebApiUsingTemplate\Application\Application.Data\obj\Debug\Application.Data.dll
+E:\Studing Projects\WebApiProjects\DrumnikWebApiUsingTemplate\Application\Application.Data\obj\Debug\Application.Data.pdb
+E:\Studing Projects\WebApiProjects\DrumnikWebApiFINISHED\Application\Application.Data\bin\Debug\Application.Data.dll.config
+E:\Studing Projects\WebApiProjects\DrumnikWebApiFINISHED\Application\Application.Data\bin\Debug\Application.Data.dll
+E:\Studing Projects\WebApiProjects\DrumnikWebApiFINISHED\Application\Application.Data\bin\Debug\Application.Data.pdb
+E:\Studing Projects\WebApiProjects\DrumnikWebApiFINISHED\Application\Application.Data\bin\Debug\Application.Models.dll
+E:\Studing Projects\WebApiProjects\DrumnikWebApiFINISHED\Application\Application.Data\bin\Debug\EntityFramework.dll
+E:\Studing Projects\WebApiProjects\DrumnikWebApiFINISHED\Application\Application.Data\bin\Debug\EntityFramework.SqlServer.dll
+E:\Studing Projects\WebApiProjects\DrumnikWebApiFINISHED\Application\Application.Data\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+E:\Studing Projects\WebApiProjects\DrumnikWebApiFINISHED\Application\Application.Data\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\Studing Projects\WebApiProjects\DrumnikWebApiFINISHED\Application\Application.Data\bin\Debug\MySql.Data.dll
+E:\Studing Projects\WebApiProjects\DrumnikWebApiFINISHED\Application\Application.Data\bin\Debug\MySql.Data.Entity.EF6.dll
+E:\Studing Projects\WebApiProjects\DrumnikWebApiFINISHED\Application\Application.Data\bin\Debug\MySql.Web.dll
+E:\Studing Projects\WebApiProjects\DrumnikWebApiFINISHED\Application\Application.Data\bin\Debug\Application.Models.pdb
+E:\Studing Projects\WebApiProjects\DrumnikWebApiFINISHED\Application\Application.Data\bin\Debug\EntityFramework.xml
+E:\Studing Projects\WebApiProjects\DrumnikWebApiFINISHED\Application\Application.Data\bin\Debug\EntityFramework.SqlServer.xml
+E:\Studing Projects\WebApiProjects\DrumnikWebApiFINISHED\Application\Application.Data\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+E:\Studing Projects\WebApiProjects\DrumnikWebApiFINISHED\Application\Application.Data\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\Studing Projects\WebApiProjects\DrumnikWebApiFINISHED\Application\Application.Data\obj\Debug\Application.Data.csprojResolveAssemblyReference.cache
+E:\Studing Projects\WebApiProjects\DrumnikWebApiFINISHED\Application\Application.Data\obj\Debug\Application.Data.dll
+E:\Studing Projects\WebApiProjects\DrumnikWebApiFINISHED\Application\Application.Data\obj\Debug\Application.Data.pdb

@@ -1,0 +1,57 @@
+REQUEST:
+http://localhost:4332/api/orders GET
+
+RESPONSE:
+[
+    {
+        "Id": 6,
+        "Firstname": "Alexander",
+        "Lastname": "Marinov",
+        "Phone": "+359 888 123 12",
+        "Email": "alex.marinov@yahoo.com",
+        "Brand": "bmw m3 2011",
+        "Registration": "CA 2232 X",
+        "Maintenance": "Diagnostics",
+        "Checkdate": "3/16/2015 1:29:39 PM",
+        "Information": "Urgent"
+    },
+    {
+        .....
+    },
+    {
+        .....
+    }
+]
+================================================================================
+REQUEST:
+http://localhost:4332/api/orders/4 GET
+
+RESPONSE:
+{
+    "Id": 4,
+    "Firstname": "Ivan",
+    "Lastname": "Todorov",
+    "Phone": "+359 213 244 43",
+    "Email": "ivan.t@gmail.com",
+    "Brand": "toyota avensis 2012",
+    "Registration": "CA 2334 AM",
+    "Maintenance": "Repairs",
+    "Checkdate": "3/18/2015 4:22:19 PM",
+    "Information": "Washing"
+}
+================================================================================
+REQUEST:
+http://localhost:4332/api/orders POST
+x-www-form-urlencoded
+Firstname : Kalin
+Lastname : Petkov
+Phone : +359898231231
+Email : kalin@abv.bg
+Brand : BMW E46 2008
+Registration : CA2312MX
+Maintenance : Major engine repair  
+Checkdate : 3-16-2015 12:29:39
+Information : No additional information
+
+RESPONSE:
+
